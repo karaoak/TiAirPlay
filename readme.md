@@ -37,13 +37,17 @@ To test if the control is added to your view or window, comment out the backgrou
 ## Example
 Please see the example/app.js for a working example.
 
+##Download
+Download the compiled iOS module at:<br />
+[https://github.com/karaoak/TiAirPlay/tree/master/iphone/dist](https://github.com/karaoak/TiAirPlay/tree/master/iphone/dist)
+
 
 ## Author
 
-**Frank Eijking**  
-web: https://medianique.nl  
-email: frank@medianique.nl
-twitter: @karaoak 
+**Frank Eijking**</br>
+@karaoak<br />
+https://medianique.nl<br />
+frank@medianique.nl<br />
 
 ## License
 
