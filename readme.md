@@ -41,7 +41,7 @@ To create your custom AirPlay control Titanium view:
     
     win.add(airplayControl);
     
-The imageNormal, imageHighlighted, imageSelected properties are optional. The module will otherwise default to the module assets: airplay-normal, airplay-highlighted, airplay-selected.
+The imageNormal, imageHighlighted, imageSelected properties are optional. The module will otherwise default to the module packaged assets: airplay-normal, airplay-highlighted, airplay-selected.
 
 Please note: when you specify custom images, be sure to omit the .png suffix.
 
