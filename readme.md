@@ -4,6 +4,18 @@
 
 An iOS module to add an In-App AirPlay control to your app, to be customized with your own images for the different AirPlay states.
 
+## Quick Start
+
+### Get it [![gitTio](http://gitt.io/badge.png)](http://gitt.io/component/com.karaoak.airplay)
+Download the latest distribution ZIP-file and consult the [Titanium Documentation](http://docs.appcelerator.com/titanium/latest/#!/guide/Using_a_Module) on how to install it, or simply use the [gitTio CLI](http://gitt.io/cli):
+
+`$ gittio install com.karaoak.airplay`
+
+Or to demo use: 
+
+`$ gittio demo com.karaoak.airplay`
+
+
 ## Accessing the TiAirPlay Module
 
 To access this module from JavaScript, you would do the following:
@@ -13,6 +25,7 @@ To access this module from JavaScript, you would do the following:
 The tiairplay variable is a reference to the Module object.
 
 ## Reference
+This module only supports the method createView(&lt;default Ti.UI.View + custom module properties&gt;)
 
 To create your custom AirPlay control Titanium view:
 
@@ -35,9 +48,9 @@ Please note: when you specify custom images, be sure to omit the .png suffix.
 To test if the control is added to your view or window, comment out the backgroundColor property. The AirPlay state images will only appear if an AirPlay device is available in the same WiFi network as your device. For this reason the images by default will not be shown in an iOS Simulator.
 
 ## Example
-Please see the example/app.js for a working example.
+Please see the [example/app.js](https://github.com/karaoak/TiAirPlay/blob/master/example/app.js) for a working example.
 
-##Download
+## Download
 Download the compiled iOS module at:<br />
 [https://github.com/karaoak/TiAirPlay/tree/master/iphone/dist](https://github.com/karaoak/TiAirPlay/tree/master/iphone/dist)
 
