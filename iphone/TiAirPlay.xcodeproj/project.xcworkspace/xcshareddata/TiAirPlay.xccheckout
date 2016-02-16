@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1AB61EA8-ADB1-4F94-AD50-67914072FC9B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TiAirPlay</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4273FB736736694DC29736BB53F8FBC514158417</key>
+		<string>github.com:karaoak/TiAirPlay.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iphone/TiAirPlay.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4273FB736736694DC29736BB53F8FBC514158417</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:karaoak/TiAirPlay.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4273FB736736694DC29736BB53F8FBC514158417</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4273FB736736694DC29736BB53F8FBC514158417</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TiAirPlay</string>
+		</dict>
+	</array>
+</dict>
+</plist>
